@@ -88,11 +88,13 @@ your current lesson or lab.
 
 ![AskAQuestion](https://curriculum-content.s3.amazonaws.com/aaq-button.png)
 
-Clicking this button will display a form where you can submit your question.
+When clicked, a new tab will open to [portal.flatironschool.com][portal]. On
+this site, you'll see another **Ask a Question** button in the upper-right corner of
+the webpage. Clicking this button will open a form where you can submit your
+question.
 
-**Questions must be related to the current lesson or lab that you are working on.**
-AAQ does not support questions related to portfolio projects, code challenges,
-or other personal projects.
+**AAQ does not support questions related to portfolio projects, code challenges,
+or other personal projects.**
 
 AAQ exists to help Flatiron students learn to debug their issues successfully.
 As mentioned, we do encourage you to first attempt your own troubleshooting to
@@ -127,6 +129,7 @@ for help!
 
 ## Resources
 
+- [Flatiron School Portal][portal]
 - [Ask A Question Best Practices][how to]
 - [When are Technical Coaches Available?][hours]
 - [Socratic Method][]
@@ -138,3 +141,4 @@ for help!
 [supported tracks]: https://help.learn.co/en/articles/492978-does-my-program-or-course-have-technical-coach-support
 
 [hours]: https://help.learn.co/en/articles/493006-when-are-technical-coaches-available
+[portal]: https://portal.flatironschool.com/
